@@ -12,8 +12,10 @@ The aim of this project was to recreate the famous game of PONG onto an ATMEL328
 - Optimisation, improve the way the ball and paddles are drawn to the screen, so that it is not so jittery. <br/> 
 - Include a reset button in the actual functionality. <br/> <br/> 
 
-**Video demonstration:** <br/> 
+**Video demonstration:** <br/> <br/> 
 ![Alt Text](https://media.giphy.com/media/8b1YVtzlqosfThP39n/giphy.gif)
 
 <br/> Thanks for checking this out!
+
+<br/> Note: the source code wont be included due to university policy. 
 
