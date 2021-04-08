@@ -4,6 +4,7 @@ The aim of this project was to recreate the famous game of PONG onto an ATMEL328
 **Functionality:** <br/> 
 - Both a PVE and a PVP mode (selected by holding the button on the far left on start-up). 
 - Six LEDS, represents the score of each player. Three lit indicates the other player has won. 
+- Tone whenever a paddle hits the ball, a potentiometer is included to adjust volume. 
 - Four buttons, two for each player. Left moves paddle up, right moves paddle down. <br/> <br/> 
 
 **Improvements** <br/>
